@@ -10,7 +10,7 @@
 1. Virtualbox 7.0.16
 1. Vagrant 2.4.3
 
-#### Comandos no Ubuntu para instala as ferramentas de virtualização
+#### Comandos no Ubuntu para instalar as ferramentas de virtualização
 
 - Instalando o Virtualbox via terminal
 
