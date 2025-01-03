@@ -1,5 +1,8 @@
 # labs-de-containers
+<<<<<<< HEAD
 ## Criando o Lab, instalando o Docker e Portainer
+=======
+>>>>>>> 1d9402e (adicionando para novo repositorio)
 > ### *Docker e Portainer: Uma Dupla Dinâmica para Containers*
 >
 > ***==Docker==*** *==e **Portainer** são ferramentas poderosas e complementares no universo dos containers. Para entender melhor como elas funcionam e se relacionam, vamos explorar cada uma delas individualmente:==*
@@ -105,4 +108,8 @@ Portainer é uma interface de gerenciamento do Docker que roda como um contêine
 2. **Configurar o usuário administrador:** Na primeira vez que acessar o Portainer, será solicitado que você crie um usuário administrador.
 3. **Conectar ao ambiente Docker local:** Depois de logar, selecione "Local" como o ambiente Docker para gerenciar o Docker diretamente pelo Portainer.
 
+<<<<<<< HEAD
 Agora, o Docker e o Portainer estão configurados e comunicando entre si! Você pode gerenciar os contêineres do Docker através da interface web do Portainer.
+=======
+Agora, o Docker e o Portainer estão configurados e comunicando entre si! Você pode gerenciar os contêineres do Docker através da interface web do Portainer.
+>>>>>>> 1d9402e (adicionando para novo repositorio)
