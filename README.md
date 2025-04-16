@@ -106,3 +106,13 @@ Portainer é uma interface de gerenciamento do Docker que roda como um contêine
    ```
 2. **Configurar o usuário administrador:** Na primeira vez que acessar o Portainer, será solicitado que você crie um usuário administrador.
 3. **Conectar ao ambiente Docker local:** Depois de logar, selecione "Local" como o ambiente Docker para gerenciar o Docker diretamente pelo Portainer.
+
+
+## Linceça
+
+Este projeto está sob a licença MIT, sinta-se à vontade para estudar, adaptar e compartilhar.
+
+
+## Autor
+
+Pedro Santos - [LinkedIn](https://www.linkedin.com/in/pedropins/)
