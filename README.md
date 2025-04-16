@@ -108,7 +108,7 @@ Portainer é uma interface de gerenciamento do Docker que roda como um contêine
 3. **Conectar ao ambiente Docker local:** Depois de logar, selecione "Local" como o ambiente Docker para gerenciar o Docker diretamente pelo Portainer.
 
 
-## Linceça
+## Licença
 
 Este projeto está sob a licença MIT, sinta-se à vontade para estudar, adaptar e compartilhar.
 
